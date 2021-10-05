@@ -8,13 +8,17 @@ namespace Events
 {
     public class MemberShip
     {
-        public void Login(string username, string password)
+        public delegate void LoginAction(string email);
+        public event LoginAction LoginEvent;
+        public void Login(string email, string password)
         {
+            if (LoginEvent != null)
+                LoginEvent(email);
 
         }
         public void SignUp(string username, string password, string confirmpassword)
         {
-
+        
         }
     }
 }

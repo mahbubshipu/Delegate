@@ -14,3 +14,19 @@ E:\Work\Advance C#\Delegate\Events\obj\Debug\net5.0\Events.dll
 E:\Work\Advance C#\Delegate\Events\obj\Debug\net5.0\ref\Events.dll
 E:\Work\Advance C#\Delegate\Events\obj\Debug\net5.0\Events.pdb
 E:\Work\Advance C#\Delegate\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache
+E:\Work\Delegate\Events\bin\Debug\net5.0\Events.exe
+E:\Work\Delegate\Events\bin\Debug\net5.0\Events.deps.json
+E:\Work\Delegate\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+E:\Work\Delegate\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+E:\Work\Delegate\Events\bin\Debug\net5.0\Events.dll
+E:\Work\Delegate\Events\bin\Debug\net5.0\ref\Events.dll
+E:\Work\Delegate\Events\bin\Debug\net5.0\Events.pdb
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.csproj.AssemblyReference.cache
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.dll
+E:\Work\Delegate\Events\obj\Debug\net5.0\ref\Events.dll
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.pdb
+E:\Work\Delegate\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache

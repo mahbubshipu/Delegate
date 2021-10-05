@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d/eOmrNQz3C08aihYLxF/iT+DJ58j7lVdWnmu21fd5r3Rdi/15fTfyUzNo0XiH3MVrgS3Gb/vCY+Uwr2mYP4xg==",
+  "dgSpecHash": "5CaFhV+Fsq6b7UFXaGQ0ampiyrDU2EPUmdmN43iyqRhSInfL4J2N+Qoisf0O4Qb6slCpHSMpbE6NzIbdBJl5qw==",
   "success": true,
-  "projectFilePath": "E:\\Work\\Advance C#\\Delegate\\SingleDelegate\\SingleDelegate.csproj",
+  "projectFilePath": "E:\\Work\\Delegate\\SingleDelegate\\SingleDelegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

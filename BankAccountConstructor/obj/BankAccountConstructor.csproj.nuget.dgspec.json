@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\Advance C#\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj": {}
+    "E:\\Work\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj": {}
   },
   "projects": {
-    "E:\\Work\\Advance C#\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj": {
+    "E:\\Work\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\Advance C#\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj",
+        "projectUniqueName": "E:\\Work\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj",
         "projectName": "BankAccountConstructor",
-        "projectPath": "E:\\Work\\Advance C#\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj",
+        "projectPath": "E:\\Work\\Delegate\\BankAccountConstructor\\BankAccountConstructor.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\Advance C#\\Delegate\\BankAccountConstructor\\obj\\",
+        "outputPath": "E:\\Work\\Delegate\\BankAccountConstructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
