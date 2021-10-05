@@ -1,0 +1,16 @@
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+E:\Work\Advance C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+E:\Work\Advance C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache

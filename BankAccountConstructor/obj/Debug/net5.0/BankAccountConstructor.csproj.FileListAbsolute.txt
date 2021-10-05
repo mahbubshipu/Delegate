@@ -1,0 +1,16 @@
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.exe
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.deps.json
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.runtimeconfig.json
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.runtimeconfig.dev.json
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.dll
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\ref\BankAccountConstructor.dll
+E:\Work\Advance C#\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.pdb
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.csproj.AssemblyReference.cache
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.AssemblyInfoInputs.cache
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.AssemblyInfo.cs
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.csproj.CoreCompileInputs.cache
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.dll
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\ref\BankAccountConstructor.dll
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.pdb
+E:\Work\Advance C#\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.genruntimeconfig.cache
