@@ -1,0 +1,16 @@
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\NewSwitchCase.exe
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\NewSwitchCase.deps.json
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\NewSwitchCase.runtimeconfig.json
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\NewSwitchCase.runtimeconfig.dev.json
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\NewSwitchCase.dll
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\ref\NewSwitchCase.dll
+E:\Work\Delegate\NewSwitchCase\bin\Debug\net5.0\NewSwitchCase.pdb
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.csproj.AssemblyReference.cache
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.AssemblyInfoInputs.cache
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.AssemblyInfo.cs
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.dll
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\ref\NewSwitchCase.dll
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.pdb
+E:\Work\Delegate\NewSwitchCase\obj\Debug\net5.0\NewSwitchCase.genruntimeconfig.cache
