@@ -15,6 +15,7 @@ namespace Reflection
         public override void Start()
         {
             Console.WriteLine($"{Color}:Bus Started");
+            Console.WriteLine();
         }
 
         public override void Stop()
