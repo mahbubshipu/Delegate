@@ -1,0 +1,16 @@
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\LambaAndExpression.exe
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\LambaAndExpression.deps.json
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\LambaAndExpression.runtimeconfig.json
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\LambaAndExpression.runtimeconfig.dev.json
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\LambaAndExpression.dll
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\ref\LambaAndExpression.dll
+E:\Work\Delegate\LambaAndExpression\bin\Debug\net5.0\LambaAndExpression.pdb
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.csproj.AssemblyReference.cache
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.AssemblyInfoInputs.cache
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.AssemblyInfo.cs
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.dll
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\ref\LambaAndExpression.dll
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.pdb
+E:\Work\Delegate\LambaAndExpression\obj\Debug\net5.0\LambaAndExpression.genruntimeconfig.cache

@@ -16,7 +16,7 @@ namespace Events
                 LoginEvent(email);
 
         }
-        public void SignUp(string username, string password, string confirmpassword)
+        public void SignUp(string email, string password, string confirmpassword)
         {
         
         }

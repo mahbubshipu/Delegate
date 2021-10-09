@@ -1,0 +1,16 @@
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ReflectionExtra.exe
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ReflectionExtra.deps.json
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ReflectionExtra.runtimeconfig.json
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ReflectionExtra.runtimeconfig.dev.json
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ReflectionExtra.dll
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ref\ReflectionExtra.dll
+E:\Work\Delegate\ReflectionExtra\bin\Debug\net5.0\ReflectionExtra.pdb
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.csproj.AssemblyReference.cache
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.AssemblyInfoInputs.cache
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.AssemblyInfo.cs
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.dll
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ref\ReflectionExtra.dll
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.pdb
+E:\Work\Delegate\ReflectionExtra\obj\Debug\net5.0\ReflectionExtra.genruntimeconfig.cache

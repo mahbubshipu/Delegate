@@ -1,0 +1,16 @@
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.exe
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.deps.json
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.runtimeconfig.json
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.runtimeconfig.dev.json
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.dll
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ref\ExtensionExtra.dll
+E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.pdb
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.csproj.AssemblyReference.cache
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.AssemblyInfoInputs.cache
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.AssemblyInfo.cs
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.dll
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ref\ExtensionExtra.dll
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.pdb
+E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.genruntimeconfig.cache

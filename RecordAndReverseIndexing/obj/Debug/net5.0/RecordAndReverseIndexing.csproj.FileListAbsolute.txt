@@ -1,0 +1,16 @@
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\RecordAndReverseIndexing.exe
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\RecordAndReverseIndexing.deps.json
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\RecordAndReverseIndexing.runtimeconfig.json
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\RecordAndReverseIndexing.runtimeconfig.dev.json
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\RecordAndReverseIndexing.dll
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\ref\RecordAndReverseIndexing.dll
+E:\Work\Delegate\RecordAndReverseIndexing\bin\Debug\net5.0\RecordAndReverseIndexing.pdb
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.csproj.AssemblyReference.cache
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.AssemblyInfoInputs.cache
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.AssemblyInfo.cs
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.dll
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\ref\RecordAndReverseIndexing.dll
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.pdb
+E:\Work\Delegate\RecordAndReverseIndexing\obj\Debug\net5.0\RecordAndReverseIndexing.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.exe
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.deps.json
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.runtimeconfig.json
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.runtimeconfig.dev.json
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.dll
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ref\ActionAndFuc.dll
+E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.pdb
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.csproj.AssemblyReference.cache
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.AssemblyInfoInputs.cache
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.AssemblyInfo.cs
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.dll
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ref\ActionAndFuc.dll
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.pdb
+E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.genruntimeconfig.cache
