@@ -7,10 +7,14 @@ using System.Threading.Tasks;
 namespace Reflection
 {
     public class Bus : Vehicle
-    {
+    {   
+        public Bus(string color)
+        {
+            Color = color;
+        }
         public override void Start()
         {
-            Console.WriteLine("Bus Started");
+            Console.WriteLine($"{Color}:Bus Started");
         }
 
         public override void Stop()

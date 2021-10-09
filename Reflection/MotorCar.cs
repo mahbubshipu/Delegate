@@ -8,6 +8,10 @@ namespace Reflection
 {
     public class MotorCar : Vehicle
     {
+        public MotorCar(string color)
+        {
+            Color = color;
+        }
         public override void Start()
         {
             Console.WriteLine("MotorCar Started");
