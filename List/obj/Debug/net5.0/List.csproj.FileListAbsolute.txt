@@ -5,7 +5,6 @@ E:\Work\Delegate\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
 E:\Work\Delegate\List\bin\Debug\net5.0\List.dll
 E:\Work\Delegate\List\bin\Debug\net5.0\ref\List.dll
 E:\Work\Delegate\List\bin\Debug\net5.0\List.pdb
-E:\Work\Delegate\List\obj\Debug\net5.0\List.csproj.AssemblyReference.cache
 E:\Work\Delegate\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
 E:\Work\Delegate\List\obj\Debug\net5.0\List.AssemblyInfo.cs

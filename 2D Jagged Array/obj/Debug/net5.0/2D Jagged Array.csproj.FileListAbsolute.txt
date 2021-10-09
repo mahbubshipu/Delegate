@@ -13,4 +13,3 @@ E:\Work\Delegate\2D Jagged Array\obj\Debug\net5.0\2D Jagged Array.dll
 E:\Work\Delegate\2D Jagged Array\obj\Debug\net5.0\ref\2D Jagged Array.dll
 E:\Work\Delegate\2D Jagged Array\obj\Debug\net5.0\2D Jagged Array.pdb
 E:\Work\Delegate\2D Jagged Array\obj\Debug\net5.0\2D Jagged Array.genruntimeconfig.cache
-E:\Work\Delegate\2D Jagged Array\obj\Debug\net5.0\2D Jagged Array.csproj.AssemblyReference.cache

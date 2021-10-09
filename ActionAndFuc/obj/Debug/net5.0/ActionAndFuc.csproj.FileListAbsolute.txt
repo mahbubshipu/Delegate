@@ -5,7 +5,6 @@ E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.runtimeconfig.dev.js
 E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.dll
 E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ref\ActionAndFuc.dll
 E:\Work\Delegate\ActionAndFuc\bin\Debug\net5.0\ActionAndFuc.pdb
-E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.csproj.AssemblyReference.cache
 E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.AssemblyInfoInputs.cache
 E:\Work\Delegate\ActionAndFuc\obj\Debug\net5.0\ActionAndFuc.AssemblyInfo.cs

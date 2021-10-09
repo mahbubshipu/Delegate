@@ -5,7 +5,6 @@ E:\Work\Delegate\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
 E:\Work\Delegate\Indexer\bin\Debug\net5.0\Indexer.dll
 E:\Work\Delegate\Indexer\bin\Debug\net5.0\ref\Indexer.dll
 E:\Work\Delegate\Indexer\bin\Debug\net5.0\Indexer.pdb
-E:\Work\Delegate\Indexer\obj\Debug\net5.0\Indexer.csproj.AssemblyReference.cache
 E:\Work\Delegate\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
 E:\Work\Delegate\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs

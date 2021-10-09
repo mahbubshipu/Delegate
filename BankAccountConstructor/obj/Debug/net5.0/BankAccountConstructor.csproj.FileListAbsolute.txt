@@ -21,7 +21,6 @@ E:\Work\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.
 E:\Work\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.dll
 E:\Work\Delegate\BankAccountConstructor\bin\Debug\net5.0\ref\BankAccountConstructor.dll
 E:\Work\Delegate\BankAccountConstructor\bin\Debug\net5.0\BankAccountConstructor.pdb
-E:\Work\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.csproj.AssemblyReference.cache
 E:\Work\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.AssemblyInfoInputs.cache
 E:\Work\Delegate\BankAccountConstructor\obj\Debug\net5.0\BankAccountConstructor.AssemblyInfo.cs

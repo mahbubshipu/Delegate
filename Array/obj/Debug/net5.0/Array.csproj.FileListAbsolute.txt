@@ -5,7 +5,6 @@ E:\Work\Delegate\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
 E:\Work\Delegate\Array\bin\Debug\net5.0\Array.dll
 E:\Work\Delegate\Array\bin\Debug\net5.0\ref\Array.dll
 E:\Work\Delegate\Array\bin\Debug\net5.0\Array.pdb
-E:\Work\Delegate\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
 E:\Work\Delegate\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
 E:\Work\Delegate\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs

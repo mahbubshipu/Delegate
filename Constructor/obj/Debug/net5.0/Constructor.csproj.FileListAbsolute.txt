@@ -21,7 +21,6 @@ E:\Work\Delegate\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.dev.json
 E:\Work\Delegate\Constructor\bin\Debug\net5.0\Constructor.dll
 E:\Work\Delegate\Constructor\bin\Debug\net5.0\ref\Constructor.dll
 E:\Work\Delegate\Constructor\bin\Debug\net5.0\Constructor.pdb
-E:\Work\Delegate\Constructor\obj\Debug\net5.0\Constructor.csproj.AssemblyReference.cache
 E:\Work\Delegate\Constructor\obj\Debug\net5.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfoInputs.cache
 E:\Work\Delegate\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfo.cs

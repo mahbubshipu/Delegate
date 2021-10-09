@@ -5,7 +5,6 @@ E:\Work\Delegate\AsyncExamples\bin\Debug\net5.0\AsyncExamples.runtimeconfig.dev.
 E:\Work\Delegate\AsyncExamples\bin\Debug\net5.0\AsyncExamples.dll
 E:\Work\Delegate\AsyncExamples\bin\Debug\net5.0\ref\AsyncExamples.dll
 E:\Work\Delegate\AsyncExamples\bin\Debug\net5.0\AsyncExamples.pdb
-E:\Work\Delegate\AsyncExamples\obj\Debug\net5.0\AsyncExamples.csproj.AssemblyReference.cache
 E:\Work\Delegate\AsyncExamples\obj\Debug\net5.0\AsyncExamples.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\AsyncExamples\obj\Debug\net5.0\AsyncExamples.AssemblyInfoInputs.cache
 E:\Work\Delegate\AsyncExamples\obj\Debug\net5.0\AsyncExamples.AssemblyInfo.cs

@@ -5,7 +5,6 @@ E:\Work\Delegate\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimecon
 E:\Work\Delegate\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
 E:\Work\Delegate\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
 E:\Work\Delegate\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
-E:\Work\Delegate\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.AssemblyReference.cache
 E:\Work\Delegate\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
 E:\Work\Delegate\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs

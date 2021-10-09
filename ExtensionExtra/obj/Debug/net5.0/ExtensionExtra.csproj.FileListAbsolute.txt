@@ -5,7 +5,6 @@ E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.runtimeconfig.de
 E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.dll
 E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ref\ExtensionExtra.dll
 E:\Work\Delegate\ExtensionExtra\bin\Debug\net5.0\ExtensionExtra.pdb
-E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.csproj.AssemblyReference.cache
 E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.AssemblyInfoInputs.cache
 E:\Work\Delegate\ExtensionExtra\obj\Debug\net5.0\ExtensionExtra.AssemblyInfo.cs

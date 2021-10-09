@@ -5,7 +5,6 @@ E:\Work\Delegate\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.dev.json
 E:\Work\Delegate\Reflection\bin\Debug\net5.0\Reflection.dll
 E:\Work\Delegate\Reflection\bin\Debug\net5.0\ref\Reflection.dll
 E:\Work\Delegate\Reflection\bin\Debug\net5.0\Reflection.pdb
-E:\Work\Delegate\Reflection\obj\Debug\net5.0\Reflection.csproj.AssemblyReference.cache
 E:\Work\Delegate\Reflection\obj\Debug\net5.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
 E:\Work\Delegate\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfoInputs.cache
 E:\Work\Delegate\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfo.cs
