@@ -1,0 +1,16 @@
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ExamGeneric.exe
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ExamGeneric.deps.json
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ExamGeneric.runtimeconfig.json
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ExamGeneric.runtimeconfig.dev.json
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ExamGeneric.dll
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ref\ExamGeneric.dll
+E:\Work\Delegate\ExamGeneric\bin\Debug\net5.0\ExamGeneric.pdb
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.csproj.AssemblyReference.cache
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.AssemblyInfoInputs.cache
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.AssemblyInfo.cs
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.dll
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ref\ExamGeneric.dll
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.pdb
+E:\Work\Delegate\ExamGeneric\obj\Debug\net5.0\ExamGeneric.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\GenericsClass.exe
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\GenericsClass.deps.json
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\GenericsClass.runtimeconfig.json
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\GenericsClass.runtimeconfig.dev.json
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\GenericsClass.dll
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\ref\GenericsClass.dll
+E:\Work\Delegate\GenericsClass\bin\Debug\net5.0\GenericsClass.pdb
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.csproj.AssemblyReference.cache
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.AssemblyInfoInputs.cache
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.AssemblyInfo.cs
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.csproj.CoreCompileInputs.cache
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.dll
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\ref\GenericsClass.dll
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.pdb
+E:\Work\Delegate\GenericsClass\obj\Debug\net5.0\GenericsClass.genruntimeconfig.cache
