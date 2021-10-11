@@ -18,10 +18,12 @@ namespace _2D_Jagged_Array
             for (int i = 0; i < numbers.Length; i++)
             {
                 Console.WriteLine("\nArray :" + (i + 1));
-                Console.WriteLine("###########");
+                Console.WriteLine("===============");
                 Console.Write("{");
                 for (int j = 0; j < numbers[i].Length; j++)
                 {
+                    if (j != 0)
+                        Console.Write(",");
                     Console.Write(numbers[i][j]+" ");
                 }
                 Console.Write("}");
@@ -38,10 +40,14 @@ namespace _2D_Jagged_Array
                 Console.WriteLine("\nArray :" + (i + 1));
                 Console.WriteLine("=========");
                 for (int j = 0; j < jaggedArray4[i].GetLength(0); j++)
-                {
+                {   
+                    if(j!=0)
+                        Console.Write(",");
                     Console.Write("{ ");
                     for (int k = 0; k < jaggedArray4[i].GetLength(1); k++)
-                    {
+                    {   
+                        if(k!=0)
+                            Console.Write(",");
                         Console.Write(jaggedArray4[i][j, k] + " ");
                     }
                     Console.Write("} ");
@@ -49,7 +55,34 @@ namespace _2D_Jagged_Array
                 Console.WriteLine("\n");
             }
 
-            Console.ReadLine();
+
+            //Shohanur Rahman
+            int[][,] jaggedArray5 = new int[][,]
+            {
+                new int[,] { {1,3}, {5,7} },
+                new int[,] { {0,2}, {4,6}, {8,10} },
+                new int[,] { {11,22}, {99,88}, {0,9} }
+            };
+
+            for (var i = 0; i < jaggedArray5.Length; i++)
+            {
+                for (var j = 0; j < jaggedArray5[i].GetLength(0); j++)
+                {
+                    if (j != 0)
+                        Console.Write(",");
+
+                    Console.Write("{");
+                    for (var k = 0; k < jaggedArray5[i].GetLength(1); k++)
+                    {
+                        if (k != 0)
+                            Console.Write(",");
+
+                        Console.Write(jaggedArray5[i][j, k]);
+                    }
+                    Console.Write("}");
+                }
+                Console.WriteLine();
+            }
 
 
         }

@@ -13,3 +13,4 @@ E:\Work\Delegate\Array\obj\Debug\net5.0\Array.dll
 E:\Work\Delegate\Array\obj\Debug\net5.0\ref\Array.dll
 E:\Work\Delegate\Array\obj\Debug\net5.0\Array.pdb
 E:\Work\Delegate\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
+E:\Work\Delegate\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
