@@ -82,6 +82,7 @@ namespace _2D_Jagged_Array
                     Console.Write("}");
                 }
                 Console.WriteLine();
+                Console.WriteLine();
             }
 
 
