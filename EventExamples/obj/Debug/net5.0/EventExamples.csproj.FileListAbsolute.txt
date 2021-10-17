@@ -1,0 +1,15 @@
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\EventExamples.exe
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\EventExamples.deps.json
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\EventExamples.runtimeconfig.json
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\EventExamples.runtimeconfig.dev.json
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\EventExamples.dll
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\ref\EventExamples.dll
+E:\Shipu\Delegate\EventExamples\bin\Debug\net5.0\EventExamples.pdb
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.AssemblyInfoInputs.cache
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.AssemblyInfo.cs
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.csproj.CoreCompileInputs.cache
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.dll
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\ref\EventExamples.dll
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.pdb
+E:\Shipu\Delegate\EventExamples\obj\Debug\net5.0\EventExamples.genruntimeconfig.cache

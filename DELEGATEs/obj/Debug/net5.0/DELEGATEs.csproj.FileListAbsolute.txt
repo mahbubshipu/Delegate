@@ -1,0 +1,16 @@
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\DELEGATEs.exe
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\DELEGATEs.deps.json
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\DELEGATEs.runtimeconfig.json
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\DELEGATEs.runtimeconfig.dev.json
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\DELEGATEs.dll
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\ref\DELEGATEs.dll
+E:\Shipu\Delegate\DELEGATEs\bin\Debug\net5.0\DELEGATEs.pdb
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.csproj.AssemblyReference.cache
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.AssemblyInfoInputs.cache
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.AssemblyInfo.cs
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.csproj.CoreCompileInputs.cache
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.dll
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\ref\DELEGATEs.dll
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.pdb
+E:\Shipu\Delegate\DELEGATEs\obj\Debug\net5.0\DELEGATEs.genruntimeconfig.cache
